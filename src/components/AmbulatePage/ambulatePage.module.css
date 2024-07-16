@@ -1,0 +1,90 @@
+.body{
+
+    position: relative;
+    background: #00FFCC;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header{
+    top:0px;
+    height: 150px;
+    background-color: #ABABAB;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: sticky;
+}
+
+.stateMic{
+    display: flex;
+    align-items: center;
+}
+
+.micIgnore{
+    color:red;
+    font-size: 50px;
+    margin-left: 25px;
+}
+
+.micActive{ 
+    color:#00FF0A;
+    font-size: 50px;
+    margin-left: 25px;
+}
+
+.state{
+    width: 300px;
+    margin-left: 110px;
+    font-size: 50px;
+    color: white;
+}
+
+.section{
+    width: 95%;
+    border: 2px solid black;
+    border-radius: 29px;
+    background: white;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.section_item{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 7fr;
+}
+
+.section_item_field{
+    text-align: center;
+    width: 435px;
+    font-weight: 700;
+    margin-left: 50px;
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+.section_item_field_active{
+    border-radius: 31px;
+    background-color: #00FFCC;
+    text-align: center;
+    width: 435px;
+    font-weight: 700;
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.section_item_input{ 
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 30px;   
+    border: 2px solid black;
+    border-radius: 31px;
+    margin-left: 100px;
+    margin-right: 50px;
+    font-weight: 700;
+    font-size: 40px;
+    align-self: flex-start;
+}
