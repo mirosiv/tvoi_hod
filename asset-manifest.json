@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tvoi_hod/static/css/main.78bf0f85.css",
+    "main.js": "/tvoi_hod/static/js/main.c318e5b7.js",
+    "static/js/453.a6a97343.chunk.js": "/tvoi_hod/static/js/453.a6a97343.chunk.js",
+    "index.html": "/tvoi_hod/index.html",
+    "main.78bf0f85.css.map": "/tvoi_hod/static/css/main.78bf0f85.css.map",
+    "main.c318e5b7.js.map": "/tvoi_hod/static/js/main.c318e5b7.js.map",
+    "453.a6a97343.chunk.js.map": "/tvoi_hod/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78bf0f85.css",
+    "static/js/main.c318e5b7.js"
+  ]
+}
